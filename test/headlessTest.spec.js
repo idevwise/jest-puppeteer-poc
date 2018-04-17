@@ -15,7 +15,6 @@ describe('LinkedIn Login Test without browser', () => {
       headless: true
     });
     page = await browser.newPage();
-    await page.goto('https://google.com')
   });
 
   afterAll(async () => {
