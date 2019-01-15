@@ -1,6 +1,6 @@
 # jest-puppeteer-poc
 
-To test the possibilities of and Jest with Puppeteer.
+To test the possibilities of Jest with Puppeteer.
 
 ```
 test/headlessTest.spec.js - Tests with headless chrome. Doesn't open the browser.
